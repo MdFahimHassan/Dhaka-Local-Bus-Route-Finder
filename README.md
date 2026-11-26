@@ -2,7 +2,7 @@
 
 Pick a start and a destination in Dhaka and see which local buses cover both stops, with the full route, service type and a photo of the bus. Works in English and Bangla.
 
-**Live demo:** [_Dhaka Local Bus Route Finder_](https://mdfahimhassan.github.io/Dhaka-Vehicle-Route-Finder/)
+**Live demo:** [_Dhaka Local Bus Route Finder_](https://mdfahimhassan.github.io/Dhaka-Local-Bus-Route-Finder/))
 
 ## Features
 - 156 local bus services and ~290 stops
