@@ -1,4 +1,4 @@
-# 🚍 Dhaka Local Bus Route Finder
+# Dhaka Local Bus Route Finder
 
 Pick a start and a destination in Dhaka and see which local buses cover both stops, with the full route, service type and a photo of the bus. Works in English and Bangla.
 
